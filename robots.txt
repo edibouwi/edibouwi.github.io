@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edibouwi.github.io/sitemap_index.edibouwi
